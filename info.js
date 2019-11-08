@@ -1,0 +1,19 @@
+
+
+var info = {
+
+
+    Sylhet_Division: "<h3>"+"Sylhet Division"+"</h3>" +"<br>" + "Sylhet Division (Bengali: সিলেট বিভাগ), is the northeastern division of Bangladesh, named after its main city, Sylhet. The colloquial name Sylhet is derived from its original correct form Srihatta but now the term Sylhet is officially recognized name of this division. There are difference of opinions among the scholars regarding the name Srihatta. It is bordered by the Indian states of Meghalaya, Assam and Tripura to the north, east and south, respectively; and by the Bangladeshi divisions of Chittagong to the southwest and Dhaka and Mymensingh to the west. Along with the Indian districts of the Barak Valley, it forms the Greater Sylhet region.",
+    Barisal_Division:"<h3>"+"Barisal Division"+"</h3>" +"<br>" +"Barisal Division, officially known as Barishal Division, is one of the eight administrative divisions of Bangladesh. Located in the south-central part of the country, it has an area of 13,644.85 km2 (5,268.31 sq mi), and a population of 8,325,666 at the 2011 Census.",
+    Chittagong_Division:"<h3>"+"Chittagong Division"+"</h3>" +"<br>" +"Chittagong Division, officially known as Chattogram Division, is geographically the largest of the eight administrative divisions of Bangladesh. It covers the south-easternmost areas of the country, with a total area of 33,771.18 km2 (13,039.13 sq mi) and a population at the 2011 census of 28,423,019.",
+    Dhaka_Division:"<h3>"+"Dhaka Division"+"</h3>" +"<br>" +"Dhaka Division (Bengali: ঢাকা বিভাগ, Ḑhaka Bibhag) is an administrative division within Bangladesh.[2] The capital and largest city is Dhaka. The Division as constituted prior to 2015 covered an area of 31,051 km2, and had a population of 47,424,418 at the 2011 Census. However, following the separation of the new Mymensingh Division in 2015, the area has been reduced to 20,508.8 km2 with a population at the 2011 Census of 36,433,505.",
+    Mymansingh_Division:"<h3>"+"Mymansingh Division"+"</h3>" +"<br>" +"Mymensingh Division (Bengali: ময়মনসিংহ বিভাগ) is one of the eight administrative divisions of Bangladesh. It has an area of 10,485 square kilometres (4,048 sq mi) and a population of 11,370,000 as of the 2011 census. It was created in 2015 from districts previously comprising the northern part of Dhaka Division. Its headquarters are in Mymensingh city in Mymensingh District.",
+    Khulna_Division:"<h3>"+"Khulna Division"+"</h3>" +"<br>" +"Khulna Division (Bengali: খুলনা বিভাগ) is one of the eight divisions of Bangladesh. It has an area of 22,285 km2 and a population of 15,563,000 at the 2011 Census (preliminary returns). Its headquarters is Khulna city in Khulna District.",
+    Rajshahi_Division:"<h3>"+"Rajshahi Division"+"</h3>" +"<br>" +"Rajshahi Division (Bengali: রাজশাহী বিভাগ) is one of the eight first-level administrative divisions of Bangladesh. It has an area of 18,174.4 square kilometres (7,017.2 sq mi)[2] and a population at the 2011 Census of 18,484,858.[3] Rajshahi Division consists of 8 districts, 70 Upazilas (the next lower administrative tier) and 1,092 Unions (the lowest administrative tier). ",
+    Rangpur_Division:"<h3>"+"Rangpur Division"+"</h3>" +"<br>" +"Rangpur Division (Bengali: রংপুর বিভাগ) is one the Divisions in Bangladesh. It was formed on 25 January 2010,[1] as Bangladesh's 7th division. Before that, it had been the northern eight districts of the Rajshahi Division. The Rangpur division consists of eight districts. There are 58 Upazilas or subdistricts under these eight districts. Rangpur is the northernmost division of Bangladesh and has a population of 15,665,000 at the 2011 Census.",
+
+    Developer_Info:"This interactive map is designed and developed by Musaddiqur Rahman Ovi.<br><br>For better experience try to use a desktop browser or rotate youre phone.<br><br>You can find me here at  <a href='https://ovirahman.github.io/'>www.ovirahman.github.io</a>"
+
+
+
+}

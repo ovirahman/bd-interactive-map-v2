@@ -1,0 +1,97 @@
+/* tooltip styling. by default the element to be styled is .tooltip  */
+.btn{
+    align-items: center;
+}
+
+.button-div{
+    /* align-items: center; */
+    text-align: center;
+    /* display: inline-block; */
+}
+
+#svg-object{
+    display:block;
+    margin: 0 auto;
+}
+.content-div{
+    display: flex;
+    align-items: center;
+}
+
+.button-div{
+    margin: auto;
+    flex: 1;
+}
+
+.info-div{
+    width: 200px;
+    height: 500px;
+    margin: auto;
+    /* flex: 1; */
+    padding-left: 20px;
+
+}
+
+.map-div{
+    flex: 1;
+}
+
+.info-text{
+    font-size: 13pt;
+}
+
+
+.button{
+    height:50px;
+    width:100px;
+    background-color: red;
+    opacity: 0.4;
+    color: white;
+    display: list-item;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 2px #999;
+    margin: 5px;
+
+
+   /* margin: -20px -50px;
+   position:relative;
+   top:50%;
+   left:50%; */
+}
+
+
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(2px);
+}
+
+
+
+
+#button-clr{
+    background-color: green;
+}
+
+
+.map-tooltip {
+
+  position: absolute;
+  display: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border:#d3d3d3 solid 1px;
+  background: #fff;
+  color: black;
+  font-family: Comfortaa, Verdana;
+  font-size: smaller;
+  padding: 8px;
+  pointer-events:none;
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
