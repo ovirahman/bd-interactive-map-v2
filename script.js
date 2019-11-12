@@ -5,7 +5,7 @@ var svgObject = document.getElementById('svg-object').contentDocument;
 var svg = svgObject.getElementById('Moulvibazar_District');
 var svgSelector = svgObject.querySelector('.country');
 
-var allButton = document.querySelectorAll("button")
+var allButton = document.querySelectorAll("button");
 
 var button = document.getElementById('button-syl');
 
